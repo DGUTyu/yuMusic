@@ -1,2 +1,3 @@
+include ':yu_voice'
 include ':app'
 rootProject.name = "yuMusic"
